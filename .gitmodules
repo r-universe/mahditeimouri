@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AEP"]
+	path = AEP
+	url = https://github.com/cran/AEP
+	shallow = true
+	registered = true
+[submodule "alphastable"]
+	path = alphastable
+	url = https://github.com/cran/alphastable
+	shallow = true
+	registered = true
+[submodule "bccp"]
+	path = bccp
+	url = https://github.com/cran/bccp
+	shallow = true
+	registered = true
+[submodule "bibs"]
+	path = bibs
+	url = https://github.com/cran/bibs
+	shallow = true
+	registered = true
+[submodule "ForestFit"]
+	path = ForestFit
+	url = https://github.com/cran/ForestFit
+	shallow = true
+	registered = true
+[submodule "mixbox"]
+	path = mixbox
+	url = https://github.com/cran/mixbox
+	shallow = true
+	registered = true
+[submodule "mixSSG"]
+	path = mixSSG
+	url = https://github.com/cran/mixSSG
+	shallow = true
+	registered = true
+[submodule "MPS"]
+	path = MPS
+	url = https://github.com/cran/MPS
+	shallow = true
+	registered = true
