@@ -5,6 +5,12 @@
 [submodule "AEP"]
 	path = AEP
 	url = https://github.com/cran/AEP
+[submodule "ForestFit"]
+	path = ForestFit
+	url = https://github.com/cran/ForestFit
+[submodule "MPS"]
+	path = MPS
+	url = https://github.com/cran/MPS
 [submodule "alphastable"]
 	path = alphastable
 	url = https://github.com/cran/alphastable
@@ -14,15 +20,9 @@
 [submodule "bibs"]
 	path = bibs
 	url = https://github.com/cran/bibs
-[submodule "ForestFit"]
-	path = ForestFit
-	url = https://github.com/cran/ForestFit
-[submodule "mixbox"]
-	path = mixbox
-	url = https://github.com/cran/mixbox
 [submodule "mixSSG"]
 	path = mixSSG
 	url = https://github.com/cran/mixSSG
-[submodule "MPS"]
-	path = MPS
-	url = https://github.com/cran/MPS
+[submodule "mixbox"]
+	path = mixbox
+	url = https://github.com/cran/mixbox
