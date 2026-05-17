@@ -17,9 +17,6 @@
 [submodule "bccp"]
 	path = bccp
 	url = https://github.com/cran/bccp
-[submodule "bibs"]
-	path = bibs
-	url = https://github.com/cran/bibs
 [submodule "mixSSG"]
 	path = mixSSG
 	url = https://github.com/cran/mixSSG
